@@ -1,4 +1,4 @@
-# RT-Thread forstudy#
+# RT-Thread *forstudy
 This is a branch for my study. If you want a stable version, please check other branches.          
 [中文页](README_zh.md) |
 
